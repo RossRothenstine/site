@@ -1,0 +1,41 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0 auto;
+	max-width: 600px;
+	line-height: 24px;
+}
+.h1 {
+	font-size: 30px;
+}
+p {
+	font: 16px 'Fira Sans', sans-serif;
+}
+
+.wrapper {
+	margin-top: 24px;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.blue-line {
+	border: 1px solid #06143D;
+}
+.green-line {
+	border: 1px solid #0B4952;
+}
+.purple-line {
+	border: 1px solid #28145C;
+}
+ul {
+	padding-left: 0;
+}
+li {
+	display: inline;
+	padding: 4px;
+}
+li:first-child {
+	padding-left: 0;
+}
