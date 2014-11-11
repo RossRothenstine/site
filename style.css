@@ -10,7 +10,7 @@ body {
 	font-size: 30px;
 }
 p {
-	font: 16px 'Fira Sans', sans-serif;
+	font: 16px 'Quattrocento Sans', sans-serif;
 }
 
 .wrapper {
@@ -23,13 +23,16 @@ p {
 	float: right;
 }
 .blue-line {
-	border: 1px solid #06143D;
+	border: 1px solid #0A9FFF;
 }
 .green-line {
-	border: 1px solid #0B4952;
+	border: 1px solid #1DD13C;
 }
 .purple-line {
-	border: 1px solid #28145C;
+	border: 1px solid #2E00B0;
+}
+.red-line {
+	border: 1px solid #ED1F24;
 }
 ul {
 	padding-left: 0;
